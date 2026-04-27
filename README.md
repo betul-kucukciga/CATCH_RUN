@@ -9,7 +9,7 @@ This game is an arcade game developed using Python, Pygame, and ModernGL (OpenGL
 - Movement-based reaction (flashing when hitting a bomb).
 
 ## In-Game Screenshot
-(<img width="1008" height="976" alt="catch_run!" src="https://github.com/user-attachments/assets/01776e27-efde-4087-86c7-7cc7dd5b7bfd" />
+![CATCH RUN!] <img width="1008" height="976" alt="catch_run!" src="https://github.com/user-attachments/assets/01776e27-efde-4087-86c7-7cc7dd5b7bfd" />
 
 ## Installation
 To run the project:
@@ -34,7 +34,7 @@ Bu oyun Python, Pygame ve ModernGL (OpenGL) kullanılarak geliştirilmiş bir ar
 - Harekete bağlı tepki (bombaya değdiğinde yanıp sönme).
 
 ## Oyun İçi Görüntü
- (<img width="1008" height="976" alt="catch_run!" src="https://github.com/user-attachments/assets/01776e27-efde-4087-86c7-7cc7dd5b7bfd" />
+![CATCH RUN!] <img width="1008" height="976" alt="catch_run!" src="https://github.com/user-attachments/assets/01776e27-efde-4087-86c7-7cc7dd5b7bfd" />
 
 ## Kurulum
 Projeyi çalıştırmak için:
