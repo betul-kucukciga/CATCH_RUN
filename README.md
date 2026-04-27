@@ -1,5 +1,5 @@
 # CATCH_RUN
-(EN)
+# (EN)
 This game is an arcade game developed using Python, Pygame, and ModernGL (OpenGL).
 
 ## Features
@@ -24,7 +24,7 @@ This project uses the following open-source assets:
 - feed_sound.wav by quatricise -- https://freesound.org/s/789793/ -- License: Creative Commons 0
 - danger_sound.wav by DeVern -- https://freesound.org/s/517664/ -- License: Creative Commons 0
 
-(TR)
+# (TR)
 Bu oyun Python, Pygame ve ModernGL (OpenGL) kullanılarak geliştirilmiş bir arcade oyunudur.
 
 ## Özellikler
